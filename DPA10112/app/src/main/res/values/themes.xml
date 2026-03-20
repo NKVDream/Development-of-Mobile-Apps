@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Изменяем parent на AppCompat версию -->
+    <style name="Theme.DPA1011" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Здесь можно настроить цвета, если нужно -->
+        <item name="colorPrimary">#974c8c</item>
+    </style>
+</resources>

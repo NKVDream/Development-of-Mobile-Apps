@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DPA 10-11</string>
+    <string name="hintForStart">Введите здесь заметку</string>
+    <string name="AnotherNote">другая заметка</string>
+</resources>
