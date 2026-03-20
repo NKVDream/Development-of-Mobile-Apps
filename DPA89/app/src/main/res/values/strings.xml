@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DPA 8-9</string>
+    <string name="random">Random</string>
+    <string name="ThisRanNum">Это случайное число между 0 и %1d</string>
+    <string name="textR">TextView</string>
+    <string name="ranNumm">Случайное число</string>
+    <string name="compG">Компьютер угадывает</string>
+    <string name="min">Мин</string>
+    <string name="one">1</string>
+    <string name="max">Макс</string>
+    <string name="_100">100</string>
+    <string name="gues">Угадать</string>
+    <string name="Pgues">Игрок угадывает</string>
+</resources>
