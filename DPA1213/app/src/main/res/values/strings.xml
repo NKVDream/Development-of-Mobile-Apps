@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ApplicationMenu</string>
+    <string name="action_settings"> Settings</string>
+    <string name="action1">Первый</string>
+    <string name="action2">Второй</string>
+    <string name="action3">Третий</string>
+    <string name="textview">TextView</string>
+</resources>
