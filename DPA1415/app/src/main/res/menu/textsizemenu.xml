@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/size_small"
+        android:title="@string/size_small"
+        android:iconTint="#2196F3"
+        android:iconTintMode="src_in"/>
+    <item
+        android:id="@+id/size_medium"
+        android:title="@string/size_medium"
+        android:iconTint="#4CAF50"
+        android:iconTintMode="src_in"/>
+    <item
+        android:id="@+id/size_large"
+        android:title="@string/size_large"
+
+        android:iconTint="#F44336"
+        android:iconTintMode="src_in"/>
+    <item
+        android:id="@+id/size_extra_large"
+        android:title="@string/size_extra_large"
+        android:iconTint="#FF9800"
+        android:iconTintMode="src_in"/>
+</menu>

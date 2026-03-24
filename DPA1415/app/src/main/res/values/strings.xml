@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DPA 14-15</string>
+    <string name="popup_menu_item_1">Popup menu item 1</string>
+    <string name="popup_menu_item_2">Popup menu item 2</string>
+    <string name="popup_menu_item_3">Popup menu item 3</string>
+    <string name="popup_menu_item_4">Popup menu item 4</string>
+    <string name="popup_menu_item_5">Popup menu item 5</string>
+    <string name="popup_menu_item_6">Popup menu item 6</string>
+    <string name="show_ele">Показать всплывающее меню</string>
+    <string name="textview">TextView</string>
+    <string name="sub_menu">Подменю</string>
+    <string name="red_color">Red</string>
+    <string name="yellow_color">Yellow</string>
+    <string name="green_color">Green</string>
+    <string name="size_small">Small (14sp)</string>
+    <string name="size_medium">Medium (18sp)</string>
+    <string name="size_large">Large (24sp)</string>
+    <string name="size_extra_large">Extra Large (32sp)</string>
+
+</resources>
