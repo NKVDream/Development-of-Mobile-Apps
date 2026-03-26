@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    tools:context=".MainActivity">
+
+    <ImageView
+        android:id="@+id/dino"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:src="@drawable/dlive"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:layout_marginBottom="60dp" />
+
+
+    <ImageView
+        android:id="@+id/done_bubble"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="132dp"
+        android:alpha="0"
+        android:src="@drawable/done"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.724"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/meteor"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/meteor"
+        android:translationX="500dp"
+        android:translationY="-500dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <ImageView
+        android:id="@+id/explosion"
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        android:alpha="0"
+        android:src="@drawable/explosion"
+        app:layout_constraintBottom_toBottomOf="@id/dino"
+        app:layout_constraintEnd_toEndOf="@id/dino"
+        app:layout_constraintStart_toStartOf="@id/dino"
+        app:layout_constraintTop_toTopOf="@id/dino" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+
